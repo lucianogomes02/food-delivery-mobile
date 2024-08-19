@@ -5,7 +5,7 @@ export default function Header() {
     return (
         <View className="w-full flex flex-row items-center justify-between">
             <Pressable className="w-10 h-10 bg-white rounded-full flex justify-center items-center">
-                <Ionicons name="menu" size={20} color="black" />
+                <Ionicons name="person" size={20} color="black" />
             </Pressable>
 
             <View className="flex flex-col items-center justify-center">
